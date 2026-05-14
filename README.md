@@ -15,16 +15,17 @@ This repository collects my completed courses, certificates, and technical learn
 
 | Area | Courses | Hours |
 | --- | ---: | ---: |
-| SQL | 1 | 8h |
+| SQL | 2 | 26h |
 | Node.js | 6 | 88h |
 | React | 11 | 114h |
 | JavaScript | 1 | 10h |
 | Git | 1 | 8h |
-| **Total** | **20** | **228h** |
+| **Total** | **21** | **246h** |
 
 ## SQL <a name="sql"></a> :floppy_disk:
 
 - Microsoft SQL Server 2022: Getting to know SQL. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [Certificate](https://cursos.alura.com.br/certificate/668b98e3-d217-4a29-9f5f-62f3ca6cda0a?lang=en)
+- Microsoft SQL Server 2022: Advanced Queries. _School: [Alura](https://www.alura.com.br/)._ _Duration: 18h._ :paperclip: [Certificate](https://cursos.alura.com.br/certificate/58488c4c-cb58-4a90-b07e-0302b34edd4e?lang=en)
 
 ## Node.js <a name="nodejs"></a> :green_circle:
 
