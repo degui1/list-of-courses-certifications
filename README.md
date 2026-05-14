@@ -9,6 +9,7 @@ This repository collects my completed courses, certificates, and technical learn
 - [Node.js](#nodejs)
 - [React](#react)
 - [JavaScript](#javascript)
+- [Git](#git)
 
 ## Summary <a name="summary"></a> :bar_chart:
 
@@ -18,7 +19,8 @@ This repository collects my completed courses, certificates, and technical learn
 | Node.js | 6 | 88h |
 | React | 11 | 114h |
 | JavaScript | 1 | 10h |
-| **Total** | **19** | **220h** |
+| Git | 1 | 8h |
+| **Total** | **20** | **228h** |
 
 ## SQL <a name="sql"></a> :floppy_disk:
 
@@ -50,3 +52,7 @@ This repository collects my completed courses, certificates, and technical learn
 ## JavaScript <a name="javascript"></a> :sparkles:
 
 - JavaScript for Web. _School: [Alura](https://www.alura.com.br/)._ _Duration: 10h._ :paperclip: [Certificate](https://cursos.alura.com.br/certificate/8d0fe5f2-38ec-46f2-a5e9-37edee5698ef?lang=pt_BR)
+
+## Git <a name="git"></a> :brain:
+
+- Git and GitHub: mastering code version control. _School: [Alura]()._ _Duration: 8h_ :paperclip: [Certificate](https://cursos.alura.com.br/certificate/8d0fe5f2-38ec-46f2-a5e9-37edee5698ef?lang=pt_BR)
