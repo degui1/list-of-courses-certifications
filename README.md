@@ -16,18 +16,23 @@ This repository collects my completed courses, certificates, and technical learn
 | Area | Courses | Hours |
 | --- | ---: | ---: |
 | SQL | 2 | 26h |
+| Java | 1 | 10h |
 | Node.js | 6 | 88h |
 | React | 11 | 114h |
 | JavaScript | 1 | 10h |
 | Git | 1 | 8h |
-| **Total** | **21** | **246h** |
+| **Total** | **22** | **256h** |
 
 ## SQL <a name="sql"></a> :floppy_disk:
 
 - Microsoft SQL Server 2022: Getting to know SQL. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [Certificate](https://cursos.alura.com.br/certificate/668b98e3-d217-4a29-9f5f-62f3ca6cda0a?lang=en)
 - Microsoft SQL Server 2022: Advanced Queries. _School: [Alura](https://www.alura.com.br/)._ _Duration: 18h._ :paperclip: [Certificate](https://cursos.alura.com.br/certificate/58488c4c-cb58-4a90-b07e-0302b34edd4e?lang=en)
 
+## Java <a name="java"></a> :coffee:
+
 ## Node.js <a name="nodejs"></a> :green_circle:
+
+- Spring Boot 3: develop a Rest API in Java. _School: [Alura](https://www.alura.com.br)._ _Duration: 10h._ :paperclip: [Certificate](https://cursos.alura.com.br/user/gui-denez56/course/spring-boot-3-desenvolva-api-rest-java/certificate?lang=en).
 
 - Node.js: Mastering Queues, Stacks, and Data Structures. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [Certificate](https://cursos.alura.com.br/certificate/b82e79b6-a00c-4f51-bf34-86be924ba398?lang=en)
 - Clean Code. _School: [Rocketseat](https://www.rocketseat.com.br/)._ _Duration: 3h._ :paperclip: [Certificate](https://app.rocketseat.com.br/certificates/d0b9e43c-bb24-49d7-bfac-bb84c056f333)
