@@ -30,9 +30,9 @@ This repository collects my completed courses, certificates, and technical learn
 
 ## Java <a name="java"></a> :coffee:
 
-## Node.js <a name="nodejs"></a> :green_circle:
-
 - Spring Boot 3: develop a Rest API in Java. _School: [Alura](https://www.alura.com.br)._ _Duration: 10h._ :paperclip: [Certificate](https://cursos.alura.com.br/user/gui-denez56/course/spring-boot-3-desenvolva-api-rest-java/certificate?lang=en).
+
+## Node.js <a name="nodejs"></a> :green_circle:
 
 - Node.js: Mastering Queues, Stacks, and Data Structures. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [Certificate](https://cursos.alura.com.br/certificate/b82e79b6-a00c-4f51-bf34-86be924ba398?lang=en)
 - Clean Code. _School: [Rocketseat](https://www.rocketseat.com.br/)._ _Duration: 3h._ :paperclip: [Certificate](https://app.rocketseat.com.br/certificates/d0b9e43c-bb24-49d7-bfac-bb84c056f333)
