@@ -16,12 +16,12 @@ This repository collects my completed courses, certificates, and technical learn
 | Area | Courses | Hours |
 | --- | ---: | ---: |
 | SQL | 2 | 26h |
-| Java | 1 | 10h |
+| Java | 2 | 22h |
 | Node.js | 6 | 88h |
 | React | 11 | 114h |
 | JavaScript | 1 | 10h |
 | Git | 1 | 8h |
-| **Total** | **22** | **256h** |
+| **Total** | **23** | **268h** |
 
 ## SQL <a name="sql"></a> :floppy_disk:
 
@@ -30,7 +30,8 @@ This repository collects my completed courses, certificates, and technical learn
 
 ## Java <a name="java"></a> :coffee:
 
-- Spring Boot 3: develop a Rest API in Java. _School: [Alura](https://www.alura.com.br)._ _Duration: 10h._ :paperclip: [Certificate](https://cursos.alura.com.br/user/gui-denez56/course/spring-boot-3-desenvolva-api-rest-java/certificate?lang=en).
+- Spring Boot 3: develop a Rest API in Java. _School: [Alura](https://www.alura.com.br)._ _Duration: 10h._ :paperclip: [Certificate](https://cursos.alura.com.br/certificate/bf7f70c3-1784-4395-a10b-c227a6345422?lang=en).
+- Spring Boot 3: apply best practices and secure a Rest API. _School: [Alura](https://www.alura.com.br)._ _Duration: 12h._ :paperclip: [Certificate](https://cursos.alura.com.br/certificate/7f3c1665-b737-48f2-98b5-81dfbdfbe996?lang=en).
 
 ## Node.js <a name="nodejs"></a> :green_circle:
 
