@@ -6,6 +6,8 @@ This repository collects my completed courses, certificates, and technical learn
 
 - [Summary](#summary)
 - [SQL](#sql)
+- [Java](#java)
+- [AWS](#AWS)
 - [Node.js](#nodejs)
 - [React](#react)
 - [JavaScript](#javascript)
@@ -30,9 +32,13 @@ This repository collects my completed courses, certificates, and technical learn
 
 ## Java <a name="java"></a> :coffee:
 
-- Spring Boot 3: develop a Rest API in Java. _School: [Alura](https://www.alura.com.br)._ _Duration: 10h._ :paperclip: [Certificate](https://cursos.alura.com.br/certificate/bf7f70c3-1784-4395-a10b-c227a6345422?lang=en).
-- Spring Boot 3: apply best practices and secure a Rest API. _School: [Alura](https://www.alura.com.br)._ _Duration: 12h._ :paperclip: [Certificate](https://cursos.alura.com.br/certificate/7f3c1665-b737-48f2-98b5-81dfbdfbe996?lang=en).
-- Spring Boot 3: documente, teste e prepare uma API para o deploy. _School: [Alura](https://www.alura.com.br)._ _Duration: 10h._ :paperclip: [Certificate](https://cursos.alura.com.br/certificate/6e7ec5cd-c2dc-4134-9560-2e2edd7a40d9?lang=en).
+- Spring Boot 3: develop a Rest API in Java. _School: [Alura](https://www.alura.com.br)._ _Duration: 10h._ :paperclip: [Certificate](https://cursos.alura.com.br/certificate/bf7f70c3-1784-4395-a10b-c227a6345422?lang=en)
+- Spring Boot 3: apply best practices and secure a Rest API. _School: [Alura](https://www.alura.com.br)._ _Duration: 12h._ :paperclip: [Certificate](https://cursos.alura.com.br/certificate/7f3c1665-b737-48f2-98b5-81dfbdfbe996?lang=en)
+- Spring Boot 3: documente, teste e prepare uma API para o deploy. _School: [Alura](https://www.alura.com.br)._ _Duration: 10h._ :paperclip: [Certificate](https://cursos.alura.com.br/certificate/6e7ec5cd-c2dc-4134-9560-2e2edd7a40d9?lang=en)
+
+## AWS <a name="AWS"></a> :cloud:
+
+- Amazon Lightsail: Making the Cloud Uncomplicated. _School: [Alura](https://www.alura.com.br)._ _Duration: 8h._ :paperclip: [Certificate](https://cursos.alura.com.br/certificate/63d9ff77-9723-43cb-9376-3cca54855b5f?lang=en)
 
 ## Node.js <a name="nodejs"></a> :green_circle:
 
