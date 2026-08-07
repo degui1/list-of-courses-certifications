@@ -19,11 +19,12 @@ This repository collects my completed courses, certificates, and technical learn
 | --- | ---: | ---: |
 | SQL | 2 | 26h |
 | Java | 3 | 32h |
+| AWS | 1 | 8h |
 | Node.js | 6 | 88h |
 | React | 11 | 114h |
 | JavaScript | 1 | 10h |
 | Git | 1 | 8h |
-| **Total** | **24** | **278h** |
+| **Total** | **25** | **286h** |
 
 ## SQL <a name="sql"></a> :floppy_disk:
 
