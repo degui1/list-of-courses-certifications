@@ -19,12 +19,12 @@ This repository collects my completed courses, certificates, and technical learn
 | --- | ---: | ---: |
 | SQL | 2 | 26h |
 | Java | 3 | 32h |
-| AWS | 2 | 16h |
+| AWS | 3 | 24h |
 | Node.js | 6 | 88h |
 | React | 11 | 114h |
 | JavaScript | 1 | 10h |
 | Git | 1 | 8h |
-| **Total** | **26** | **294h** |
+| **Total** | **27** | **302h** |
 
 ## SQL <a name="sql"></a> :floppy_disk:
 
@@ -41,6 +41,7 @@ This repository collects my completed courses, certificates, and technical learn
 
 - Amazon Lightsail: Making the Cloud Uncomplicated. _School: [Alura](https://www.alura.com.br)._ _Duration: 8h._ :paperclip: [Certificate](https://cursos.alura.com.br/certificate/63d9ff77-9723-43cb-9376-3cca54855b5f?lang=en)
 - Amazon EC2: high availability and scalability in one application. _School: [Alura](https://www.alura.com.br)._ _Duration: 8h._ :paperclip: [Certificate](https://cursos.alura.com.br/certificate/5b25ddf8-4bf3-4866-816f-be2d139fca08?lang=en)
+- Amazon VPC: Configuring Networks on AWS. _School: [Alura](https://www.alura.com.br)._ _Duration: 8h._ :paperclip: [Certificate](https://cursos.alura.com.br/certificate/4177a09d-4ed5-490b-97b7-0a74313aff72?lang=en)
 
 ## Node.js <a name="nodejs"></a> :green_circle:
 
